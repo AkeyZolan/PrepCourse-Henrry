@@ -1,2 +1,2 @@
 # PrepCourse-Henrry
-repositorio de prueba de prepCourse de Henrry
+prueva de como crear un repocitorio y clonarlo desde GitHub a mi escritorio 
